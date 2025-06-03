@@ -1,0 +1,7 @@
+.splashScreen { 
+    padding: 120px 60px;
+    background-image: url("../img/IMG_9533.JPG");
+    background-size: cover;
+    min-height: 540px;
+}
+
